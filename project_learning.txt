@@ -2,3 +2,6 @@
     and wrap all the elements inside the container.
 
 2=> always add a css reset on * and use box-sizing- border-box so we can work properly with height and width
+
+3 => always use width:100% to the image so it can be fit to it's container and can not grow eventaully as per size 
+
