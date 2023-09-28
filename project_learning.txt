@@ -5,3 +5,20 @@
 
 3 => always use width:100% to the image so it can be fit to it's container and can not grow eventaully as per size 
 
+4 => flex-direction defines the what will be the main axis of flex;
+
+justify-content works on main axios horizontal
+align-items works on verticle axis or cross axis
+
+flex-direction : row 
+verticle axis => align items
+horizontal axis => justify content;
+
+flex-direction : column 
+verticle axis => justify-content
+horizontal axis => align-items
+
+space between => this take the space remaining and put between the elements if there is two the two elements were one on left and one on right
+
+we can create utility class and changes its single property based on parent element or container
+
