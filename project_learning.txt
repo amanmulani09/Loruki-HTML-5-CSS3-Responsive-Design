@@ -22,3 +22,8 @@ space between => this take the space remaining and put between the elements if t
 
 we can create utility class and changes its single property based on parent element or container
 
+5 => always go for css variables as they aviod code repetation and provide scalability in sense of changes and other stuff
+
+6. grid => grid template column used to set the size of the grid elements
+
+7. gap => is used to set the gap between to CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA
