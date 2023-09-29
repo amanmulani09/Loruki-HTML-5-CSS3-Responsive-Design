@@ -27,3 +27,8 @@ we can create utility class and changes its single property based on parent elem
 6. grid => grid template column used to set the size of the grid elements
 
 7. gap => is used to set the gap between to CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA
+
+8 => utilize the difference css selectors which makes your life more easier;
+
+.showcase-form input[type="text"],
+.showcase-form input[type="email"] to skip any another input field
