@@ -32,3 +32,14 @@ we can create utility class and changes its single property based on parent elem
 
 .showcase-form input[type="text"],
 .showcase-form input[type="email"] to skip any another input field
+
+if the element or container has position relative then the child or the after or before selector have position absolute to them;
+
+can be used native transform skew to create the skew or the dyncamic lines 
+
+to work the properties to all over different the browers 
+we can use webkit
+
+  -webkit-transform: skewY(-3deg) ; chrome and firefox
+    -moz-transform: skewY(-3deg) ; // safari
+    -ms-transform: skewY(-3deg) ; // microsoft
