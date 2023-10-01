@@ -61,3 +61,10 @@ we can use webkit
 .grid-3{
     grid-template-columns: repeat(3,1fr);
 }
+
+
+margin => 
+
+1 rem is used as 16px as by default on the html the 1 rem behaves as 1 rem;
+
+if we set font-size diffrent on html 
