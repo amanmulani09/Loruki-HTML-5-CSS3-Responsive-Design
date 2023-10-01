@@ -43,3 +43,21 @@ we can use webkit
   -webkit-transform: skewY(-3deg) ; chrome and firefox
     -moz-transform: skewY(-3deg) ; // safari
     -ms-transform: skewY(-3deg) ; // microsoft
+
+9 => to move the div or contains a bit down use padding top;
+
+10 => we should create the utilities css to add the common styles and create utility classes 
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:20px;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    /* height: 100%; takes the total height of it's parent */ 
+}
+
+.grid-3{
+    grid-template-columns: repeat(3,1fr);
+}
