@@ -76,3 +76,20 @@ selector to select the first child
 .cli .grid > *:first-child {
     
 }
+
+
+the structure seems cool follows as 
+
+the main section => bg color padding, margin should be here 
+
+then the container the grid or flex should be here 
+
+and then the actual elements wow
+
+
+<section class="my-1 py-1 bg-slate-100>
+
+<div class="container gird">
+
+</div>
+</section>
