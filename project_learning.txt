@@ -93,3 +93,9 @@ and then the actual elements wow
 
 </div>
 </section>
+
+while building websites use grid and flexbox wisely it plays main role in responsiveness;
+
+use grid template column and 
+grid column span property for dynamic layout;
+
